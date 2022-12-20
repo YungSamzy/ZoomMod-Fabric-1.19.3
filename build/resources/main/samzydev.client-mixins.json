@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.samzydev.zoom.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+      "ZoomMixin"
+    ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

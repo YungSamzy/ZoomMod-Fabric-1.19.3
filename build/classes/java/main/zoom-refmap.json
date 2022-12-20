@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/samzydev/zoom/mixin/ZoomMixin": {
+      "getFov(Lnet/minecraft/client/render/Camera;FZ)D": "Lnet/minecraft/class_757;method_3196(Lnet/minecraft/class_4184;FZ)D"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/samzydev/zoom/mixin/ZoomMixin": {
+        "getFov(Lnet/minecraft/client/render/Camera;FZ)D": "Lnet/minecraft/class_757;method_3196(Lnet/minecraft/class_4184;FZ)D"
+      }
+    }
+  }
+}
