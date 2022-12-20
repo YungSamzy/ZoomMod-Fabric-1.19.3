@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Fabric Zoom Mod
 
-## Setup
+## Download
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+[Release](https://github.com/YungSamzy/ZoomMod-Fabric-1.19.3/releases/download/0.1/zoom.jar)
